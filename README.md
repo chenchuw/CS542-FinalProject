@@ -1,4 +1,4 @@
-# Boston University 2022 SUMMER CS542 Final Project
+# Interpretability in machine learning models by Local Interpretable Model-Agnostic Explanations (LIME)
 Team member: Bingquan Cai, Chuwei Chen, Xiaowei Ge
 
 ---
